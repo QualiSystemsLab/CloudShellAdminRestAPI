@@ -15,5 +15,5 @@ api.login()
 
 domains = api.get_all_domains()
 print('Domains:')
-pprint([d.get('Name') for d in domains.get('Domains')])
+print([d.get('Name') for d in domains.get('Domains')])
 ```
