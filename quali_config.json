@@ -1,0 +1,7 @@
+{
+  "server_name": "<quali_server>",
+  "server_port": "9000",
+  "username": "<username>",
+  "password": "<password>",
+  "domain": "Global"
+}
